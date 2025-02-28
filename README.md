@@ -4,7 +4,9 @@
 
 [深入设计模式](https://refactoringguru.cn/design-patterns/command)
 
-[]()
+[设计模式六大原则](https://www.cnblogs.com/huansky/p/13700861.html)
+
+[设计模式六大原则](https://www.cnblogs.com/johnnyzen/p/7605749.html#_label6)
 
 ## book
 《大话设计模式》
