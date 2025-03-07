@@ -1,5 +1,7 @@
 ## Reference
 
+[大丙设计模式](https://subingwen.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/)
+
 [卡码网设计模式精讲](https://github.com/youngyangyang04/kama-DesignPattern?tab=readme-ov-file)
 
 [UML类图和时序图](https://design-patterns.readthedocs.io/zh-cn/latest/read_uml.html)
